@@ -26,12 +26,15 @@
   - [eng](https://youtu.be/fwWCw_cE5aI)
   
  + Article "Visual Data Analysis with Python"
-     - [Topic 2. Visual Data Analysis with Python :uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-2-visual-data-analysis-in-python-846b989675cd)  
-     - [:ru:](https://habrahabr.ru/company/ods/blog/323210/) [:cn:](http://nbviewer.ipython.org/urls/raw.github.com/Yorko/mlcourse.ai/master/jupyter_chinese/topic02-Python-%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%86%E6%9E%90.ipynb), Kaggle Notebooks: [part1](https://www.kaggle.com/kashnitsky/topic-2-visual-data-analysis-in-python), [part2](https://www.kaggle.com/kashnitsky/topic-2-part-2-seaborn-and-plotly)
+     - [Topic 2. Visual Data Analysis with Python :uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-2-visual-data-analysis-in-python-846b989675cd)
+     - [Overview of Seaborn, Matplotlib and Plotly libraries](https://mlcourse.ai/articles/topic2-part2-seaborn-plotly/)  
+     - [Визуальный анализ данных c Python :ru:](https://habrahabr.ru/company/ods/blog/323210/) 
+     - [:cn:](http://nbviewer.ipython.org/urls/raw.github.com/Yorko/mlcourse.ai/master/jupyter_chinese/topic02-Python-%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%88%86%E6%9E%90.ipynb), 
+  + Kaggle Notebooks: [part1](https://www.kaggle.com/kashnitsky/topic-2-visual-data-analysis-in-python), [part2](https://www.kaggle.com/kashnitsky/topic-2-part-2-seaborn-and-plotly)
 
   + Homework:
-   - [A2 (demo). Analyzing cardiovascular data :eng: ](https://www.kaggle.com/kashnitsky/a2-demo-analyzing-cardiovascular-data)
-   - [Домашнее задание № 2 (демо).
+    - [A2 (demo). Analyzing cardiovascular data :eng: ](https://www.kaggle.com/kashnitsky/a2-demo-analyzing-cardiovascular-data)
+    - [Домашнее задание № 2 (демо).
 Визуальный анализ данных о публикациях на Хабрахабре :ru:](http://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_russian/assignments_demo/assignment02_habr_visual_analysis.ipynb)
 
   + Useful resources:
@@ -56,8 +59,11 @@
   
  
 #### Lesson 4
++ Video lectures:
+[rus](https://www.youtube.com/watch?v=NO4KSNbsXZE)
 
-4. Linear Classification and Regression [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-4-linear-classification-and-regression-44a41b9b5220) 
+
++ Articles. Linear Classification and Regression [:uk:](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-4-linear-classification-and-regression-44a41b9b5220) 
 - [Линейные модели классификации и регрессии :ru:](https://habrahabr.ru/company/ods/blog/323890/) 
  - [:cn:](http://nbviewer.ipython.org/urls/raw.github.com/Yorko/mlcourse.ai/master/jupyter_chinese/topic04-%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%92%8C%E7%BA%BF%E6%80%A7%E5%88%86%E7%B1%BB%E5%99%A8.ipynb), Kaggle Notebooks: [part1](https://www.kaggle.com/kashnitsky/topic-4-linear-models-part-1-ols), [part2](https://www.kaggle.com/kashnitsky/topic-4-linear-models-part-2-classification), [part3](https://www.kaggle.com/kashnitsky/topic-4-linear-models-part-3-regularization), [part4](https://www.kaggle.com/kashnitsky/topic-4-linear-models-part-4-more-of-logit), [part5](https://www.kaggle.com/kashnitsky/topic-4-linear-models-part-5-validation)
 
