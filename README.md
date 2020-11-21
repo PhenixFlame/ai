@@ -17,8 +17,8 @@
 
   + Homework:
     - [A1 (demo). Pandas and UCI adult dataset :eng: ](https://www.kaggle.com/kashnitsky/assignment-1-pandas-and-uci-adult-dataset)
-    - [Домашнее задание № 2 (демо).
-Визуальный анализ данных о публикациях на Хабрахабре :ru:](http://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_russian/assignments_demo/assignment02_habr_visual_analysis.ipynb)
+    - [Домашнее задание № 1 (демо).
+Анализ данных по доходу населения UCI Adult :ru:](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/master/jupyter_russian/assignments_demo/assignment01_adult_pandas.ipynb)
 
 #### Lesson 2. Visual Data Analysis
   + Video lectures:
